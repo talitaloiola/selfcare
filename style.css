@@ -4,9 +4,7 @@ background: #E5E5E5;
 .section2
 {
     display: flex;
-    flex-wrap: wrap;
-    margin: 0 auto;
-    max-width: 1200px;
+    flex-wrap: wrap;   
     justify-content: space-between;
 }
 .section2 p
