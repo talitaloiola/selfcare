@@ -1,0 +1,12 @@
+body {
+background: #E5E5E5;
+}
+.section2{
+position: absolute;
+width: 303px;
+height: 303px;
+left: 70px;
+top: 612px;
+background: url(.jpg), #C4C4C4;
+border-radius: 5px;
+} 
