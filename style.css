@@ -1,16 +1,18 @@
 body {
-background: #E5E5E5;
+background: #d6cbcb;
+width: 1000px;
+
 }
 .section2
 {
     display: flex;
     flex-wrap: wrap;   
     justify-content: space-between;
+    
 }
 .section2 p
 {
     text-align: center;
-    position: absolute;
     width: 292px;
     height: 26px;
     font-family: Lato;
@@ -21,13 +23,12 @@ background: #E5E5E5;
     color: #161616;
     
 }
-img
+.section2 img
 {
-    position: absolute;
     width: 303px; 
     height: 303px;
     left: 70px;
     top: 612px;
-    background: url(), #C4C4C4;
+    background: #C4C4C4;
     border-radius: 5px;
 }
